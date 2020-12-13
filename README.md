@@ -1,2 +1,1 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+This is how my output looks https://rachel1602.github.io/GSCO/
